@@ -1,27 +1,25 @@
 # Problem
-Dado dois números inteiros, num1 e num2, retorne a soma dos dois números.
+Given two integers, num1 and num2, return the sum of the two numbers.
 
-**Exemplo 1:**
+**Example 1:**
 
-Entrada: num1 = 12, num2 = 5
-Saída: 17
-Explicação: num1 é 12, num2 é 5, e a soma deles é 12 + 5 = 17, então 17 é retornado.
+Input: num1 = 12, num2 = 5
+Check-out: 17
+Explanation: num1 is 12, num2 is 5, and their sum is 12 + 5 = 17, so 17 is returned.
 
-**Exemplo 2:**
+**Example 2:**
 
-Entrada: num1 = -10, num2 = 4
-Saída: -6
-Explicação: num1 + num2 = -6, então -6 é retornado.
+Input: num1 = -10, num2 = 4
+Output: -6
+Explanation: num1 + num2 = -6, so -6 is returned.
 
 # Code
 ```cpp
 class Solution {
 public:
-    int sum(int num1, int num2) {
-        return num1 + num2;
-    }
+      int sum(int num1, int num2) {
+          return num1 + num2;
+      }
 };
 
 ```
-
-
