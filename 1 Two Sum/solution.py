@@ -1,5 +1,6 @@
 class Solution(object):
     def twoSum(self, nums, target):
+        result = 0
         for i in range(0, len(nums)):
             if i == 0:
                 result = nums[i]

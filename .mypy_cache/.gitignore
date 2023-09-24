@@ -1,0 +1,23 @@
+# Arquivos e pastas gerados pelo VSCode
+.vscode/
+.vscode-*
+
+# Configurações do projeto
+.settings.json
+
+# Arquivo de histórico de sessão do VSCode
+.history
+
+# Arquivos de configuração do usuário do VSCode
+.code-workspace
+.code-*.json
+
+# Arquivos de configuração do Python
+.pythonPath
+
+# Arquivos de configuração do TypeScript
+tsconfig.json
+tsconfig.*.json
+
+# Pasta de armazenamento de dados do Python
+__pycache__/
