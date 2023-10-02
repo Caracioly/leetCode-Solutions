@@ -21,3 +21,5 @@ tsconfig.*.json
 
 # Pasta de armazenamento de dados do Python
 __pycache__/
+
+.idea
