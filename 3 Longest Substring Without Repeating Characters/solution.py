@@ -1,7 +1,3 @@
-import time
-start = time.time()
-
-
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
         maior_valor = 0
@@ -24,14 +20,9 @@ class Solution(object):
 
 objeto = Solution()
 objeto.lengthOfLongestSubstring("abcabcbb")
-end = time.time()
-delta = round(end-start, 2)
-print(f"build in {delta}")
-# pwwkew  #array busca rápida / lista inserçao rápida
+# pwwkew
 # abcabcbb
 # bbbbb
 # au
 # aab
-
-start = time.time()
 

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa64180a-4818-4567-ae71-4b893f663c52" name="Changes" comment="" />
+    <list default="true" id="fa64180a-4818-4567-ae71-4b893f663c52" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/leetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetCode-Solutions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +47,12 @@
     &quot;last_opened_file_path&quot;: &quot;/home/andre/leetCode-Solutions&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.mypy_cache/1512 Number of Good Pairs" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
