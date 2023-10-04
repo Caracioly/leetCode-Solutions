@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa64180a-4818-4567-ae71-4b893f663c52" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/leetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetCode-Solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
