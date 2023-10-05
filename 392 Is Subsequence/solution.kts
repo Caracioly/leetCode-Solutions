@@ -1,13 +1,19 @@
 fun main(s: String, t: String): Boolean {
-    var currentIndex: Int = 0
-    for (charIndex in s.indices) {
-        if (t.contains(s[charIndex]) && currentIndex < charIndex) {
-            currentIndex = t.indexOf(s[charIndex])
-        } else {
-            return false
+    if (s.isNotEmpty()) {
+        var sIndex: Int = 0
+        var tIndex: Int = 0
+
+        while (s.length > sIndex && t.length > tIndex) {
+            if (s[sIndex] == t[tIndex]) {
+                sIndex++
+            }
+            tIndex++
         }
+        return sIndex == s.length
     }
-    return true
+    return false
 }
 
 main("abc", "ahbgdc")
+// "acb"
+// "ahbgdc"
